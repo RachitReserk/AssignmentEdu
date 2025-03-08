@@ -1,0 +1,17 @@
+{
+  "name": "educase",
+  "version": "1.0.0",
+  "description": "assignment",
+  "license": "ISC",
+  "author": "RachitReserk",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0"
+  }
+}
