@@ -5,7 +5,7 @@
   "license": "ISC",
   "author": "RachitReserk",
   "type": "module",
-  "main": "index.js",
+  "main": "./api/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
